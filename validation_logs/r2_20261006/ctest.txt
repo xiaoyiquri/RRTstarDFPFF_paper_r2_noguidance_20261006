@@ -1,0 +1,31 @@
+Test project D:/codex_talk/project_1/project_code/RRTstarDFPFF_paper_r2_noguidance_20261006/build_r2
+      Start  1: pff
+ 1/13 Test  #1: pff ..............................   Passed    0.04 sec
+      Start  2: tree
+ 2/13 Test  #2: tree .............................   Passed    0.03 sec
+      Start  3: rewire_metadata
+ 3/13 Test  #3: rewire_metadata ..................   Passed    0.03 sec
+      Start  4: end_to_end
+ 4/13 Test  #4: end_to_end .......................   Passed    0.10 sec
+      Start  5: df
+ 5/13 Test  #5: df ...............................   Passed    0.03 sec
+      Start  6: dynobench
+ 6/13 Test  #6: dynobench ........................   Passed    0.03 sec
+      Start  7: simd
+ 7/13 Test  #7: simd .............................   Passed    0.05 sec
+      Start  8: search_improvements
+ 8/13 Test  #8: search_improvements ..............   Passed    0.03 sec
+      Start  9: paper_fast
+ 9/13 Test  #9: paper_fast .......................   Passed    0.32 sec
+      Start 10: physical_simd
+10/13 Test #10: physical_simd ....................   Passed    0.04 sec
+      Start 11: sphere_geometry
+11/13 Test #11: sphere_geometry ..................   Passed    0.05 sec
+      Start 12: paper_r2
+12/13 Test #12: paper_r2 .........................   Passed    0.35 sec
+      Start 13: paper_profile
+13/13 Test #13: paper_profile ....................   Passed    0.04 sec
+
+100% tests passed out of 13
+
+Total Test time (real) =   1.19 sec

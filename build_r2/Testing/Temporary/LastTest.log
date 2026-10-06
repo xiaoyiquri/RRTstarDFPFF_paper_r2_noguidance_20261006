@@ -1,0 +1,212 @@
+Start testing: Oct 06 19:45 中国标准时间
+----------------------------------------------------------
+1/13 Testing: pff
+1/13 Test: pff
+Command: "D:/codex_talk/project_1/project_code/RRTstarDFPFF_paper_r2_noguidance_20261006/build_r2/test_pff.exe"
+Directory: D:/codex_talk/project_1/project_code/RRTstarDFPFF_paper_r2_noguidance_20261006/build_r2
+"pff" start time: Oct 06 19:45 中国标准时间
+Output:
+----------------------------------------------------------
+PASS
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"pff" end time: Oct 06 19:45 中国标准时间
+"pff" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/13 Testing: tree
+2/13 Test: tree
+Command: "D:/codex_talk/project_1/project_code/RRTstarDFPFF_paper_r2_noguidance_20261006/build_r2/test_tree.exe"
+Directory: D:/codex_talk/project_1/project_code/RRTstarDFPFF_paper_r2_noguidance_20261006/build_r2
+"tree" start time: Oct 06 19:45 中国标准时间
+Output:
+----------------------------------------------------------
+PASS
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"tree" end time: Oct 06 19:45 中国标准时间
+"tree" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/13 Testing: rewire_metadata
+3/13 Test: rewire_metadata
+Command: "D:/codex_talk/project_1/project_code/RRTstarDFPFF_paper_r2_noguidance_20261006/build_r2/test_rewire_metadata.exe"
+Directory: D:/codex_talk/project_1/project_code/RRTstarDFPFF_paper_r2_noguidance_20261006/build_r2
+"rewire_metadata" start time: Oct 06 19:45 中国标准时间
+Output:
+----------------------------------------------------------
+PASS
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"rewire_metadata" end time: Oct 06 19:45 中国标准时间
+"rewire_metadata" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/13 Testing: end_to_end
+4/13 Test: end_to_end
+Command: "D:/codex_talk/project_1/project_code/RRTstarDFPFF_paper_r2_noguidance_20261006/build_r2/test_end_to_end.exe"
+Directory: D:/codex_talk/project_1/project_code/RRTstarDFPFF_paper_r2_noguidance_20261006/build_r2
+"end_to_end" start time: Oct 06 19:45 中国标准时间
+Output:
+----------------------------------------------------------
+PASS
+<end of output>
+Test time =   0.10 sec
+----------------------------------------------------------
+Test Passed.
+"end_to_end" end time: Oct 06 19:45 中国标准时间
+"end_to_end" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/13 Testing: df
+5/13 Test: df
+Command: "D:/codex_talk/project_1/project_code/RRTstarDFPFF_paper_r2_noguidance_20261006/build_r2/test_df.exe"
+Directory: D:/codex_talk/project_1/project_code/RRTstarDFPFF_paper_r2_noguidance_20261006/build_r2
+"df" start time: Oct 06 19:45 中国标准时间
+Output:
+----------------------------------------------------------
+PASS
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"df" end time: Oct 06 19:45 中国标准时间
+"df" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/13 Testing: dynobench
+6/13 Test: dynobench
+Command: "D:/codex_talk/project_1/project_code/RRTstarDFPFF_paper_r2_noguidance_20261006/build_r2/test_dynobench.exe"
+Directory: D:/codex_talk/project_1/project_code/RRTstarDFPFF_paper_r2_noguidance_20261006/build_r2
+"dynobench" start time: Oct 06 19:45 中国标准时间
+Output:
+----------------------------------------------------------
+PASS
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"dynobench" end time: Oct 06 19:45 中国标准时间
+"dynobench" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/13 Testing: simd
+7/13 Test: simd
+Command: "D:/codex_talk/project_1/project_code/RRTstarDFPFF_paper_r2_noguidance_20261006/build_r2/test_simd.exe"
+Directory: D:/codex_talk/project_1/project_code/RRTstarDFPFF_paper_r2_noguidance_20261006/build_r2
+"simd" start time: Oct 06 19:45 中国标准时间
+Output:
+----------------------------------------------------------
+Compiled AVX2=1 runtime AVX2=1
+PASS
+<end of output>
+Test time =   0.05 sec
+----------------------------------------------------------
+Test Passed.
+"simd" end time: Oct 06 19:45 中国标准时间
+"simd" time elapsed: 00:00:00
+----------------------------------------------------------
+
+8/13 Testing: search_improvements
+8/13 Test: search_improvements
+Command: "D:/codex_talk/project_1/project_code/RRTstarDFPFF_paper_r2_noguidance_20261006/build_r2/test_search_improvements.exe"
+Directory: D:/codex_talk/project_1/project_code/RRTstarDFPFF_paper_r2_noguidance_20261006/build_r2
+"search_improvements" start time: Oct 06 19:45 中国标准时间
+Output:
+----------------------------------------------------------
+PASS
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"search_improvements" end time: Oct 06 19:45 中国标准时间
+"search_improvements" time elapsed: 00:00:00
+----------------------------------------------------------
+
+9/13 Testing: paper_fast
+9/13 Test: paper_fast
+Command: "D:/codex_talk/project_1/project_code/RRTstarDFPFF_paper_r2_noguidance_20261006/build_r2/test_paper_fast.exe"
+Directory: D:/codex_talk/project_1/project_code/RRTstarDFPFF_paper_r2_noguidance_20261006/build_r2
+"paper_fast" start time: Oct 06 19:45 中国标准时间
+Output:
+----------------------------------------------------------
+PASS
+<end of output>
+Test time =   0.32 sec
+----------------------------------------------------------
+Test Passed.
+"paper_fast" end time: Oct 06 19:45 中国标准时间
+"paper_fast" time elapsed: 00:00:00
+----------------------------------------------------------
+
+10/13 Testing: physical_simd
+10/13 Test: physical_simd
+Command: "D:/codex_talk/project_1/project_code/RRTstarDFPFF_paper_r2_noguidance_20261006/build_r2/test_physical_simd.exe"
+Directory: D:/codex_talk/project_1/project_code/RRTstarDFPFF_paper_r2_noguidance_20261006/build_r2
+"physical_simd" start time: Oct 06 19:45 中国标准时间
+Output:
+----------------------------------------------------------
+PASS
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"physical_simd" end time: Oct 06 19:45 中国标准时间
+"physical_simd" time elapsed: 00:00:00
+----------------------------------------------------------
+
+11/13 Testing: sphere_geometry
+11/13 Test: sphere_geometry
+Command: "D:/codex_talk/project_1/project_code/RRTstarDFPFF_paper_r2_noguidance_20261006/build_r2/test_sphere_geometry.exe"
+Directory: D:/codex_talk/project_1/project_code/RRTstarDFPFF_paper_r2_noguidance_20261006/build_r2
+"sphere_geometry" start time: Oct 06 19:45 中国标准时间
+Output:
+----------------------------------------------------------
+PASS
+<end of output>
+Test time =   0.05 sec
+----------------------------------------------------------
+Test Passed.
+"sphere_geometry" end time: Oct 06 19:45 中国标准时间
+"sphere_geometry" time elapsed: 00:00:00
+----------------------------------------------------------
+
+12/13 Testing: paper_r2
+12/13 Test: paper_r2
+Command: "D:/codex_talk/project_1/project_code/RRTstarDFPFF_paper_r2_noguidance_20261006/build_r2/test_paper_r2.exe"
+Directory: D:/codex_talk/project_1/project_code/RRTstarDFPFF_paper_r2_noguidance_20261006/build_r2
+"paper_r2" start time: Oct 06 19:45 中国标准时间
+Output:
+----------------------------------------------------------
+PASS
+<end of output>
+Test time =   0.35 sec
+----------------------------------------------------------
+Test Passed.
+"paper_r2" end time: Oct 06 19:45 中国标准时间
+"paper_r2" time elapsed: 00:00:00
+----------------------------------------------------------
+
+13/13 Testing: paper_profile
+13/13 Test: paper_profile
+Command: "D:/codex_talk/project_1/project_code/RRTstarDFPFF_paper_r2_noguidance_20261006/build_r2/test_paper_profile.exe" "D:/codex_talk/project_1/project_code/RRTstarDFPFF_paper_r2_noguidance_20261006"
+Directory: D:/codex_talk/project_1/project_code/RRTstarDFPFF_paper_r2_noguidance_20261006/build_r2
+"paper_profile" start time: Oct 06 19:45 中国标准时间
+Output:
+----------------------------------------------------------
+PASS
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"paper_profile" end time: Oct 06 19:45 中国标准时间
+"paper_profile" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Oct 06 19:45 中国标准时间

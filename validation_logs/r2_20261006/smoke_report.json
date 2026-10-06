@@ -1,0 +1,126 @@
+{
+  "paper_r2": [
+    {
+      "case": "uni_bugtrap",
+      "success": 1,
+      "reason": "",
+      "pseudo_control_order": 2,
+      "physical_boundary_match": 1,
+      "diagnostic_records": 13,
+      "maximum_attitude_error_rad": 0.0,
+      "maximum_omega_error": 0.0
+    },
+    {
+      "case": "uni_wall",
+      "success": 1,
+      "reason": "",
+      "pseudo_control_order": 2,
+      "physical_boundary_match": 1,
+      "diagnostic_records": 4,
+      "maximum_attitude_error_rad": 0.0,
+      "maximum_omega_error": 0.0
+    },
+    {
+      "case": "quad2d_bugtrap",
+      "success": 1,
+      "reason": "",
+      "pseudo_control_order": 2,
+      "physical_boundary_match": 0,
+      "diagnostic_records": 6,
+      "maximum_attitude_error_rad": 0.1596047282218933,
+      "maximum_omega_error": 0.1161610409617424
+    },
+    {
+      "case": "quad2d_hole",
+      "success": 1,
+      "reason": "",
+      "pseudo_control_order": 2,
+      "physical_boundary_match": 0,
+      "diagnostic_records": 4,
+      "maximum_attitude_error_rad": 0.09874008595943451,
+      "maximum_omega_error": 0.07762168440967798
+    },
+    {
+      "case": "quad3d_block",
+      "success": 1,
+      "reason": "",
+      "pseudo_control_order": 2,
+      "physical_boundary_match": 0,
+      "diagnostic_records": 4,
+      "maximum_attitude_error_rad": 0.11870393887173035,
+      "maximum_omega_error": 0.05919716272901472
+    },
+    {
+      "case": "quad3d_window",
+      "success": 1,
+      "reason": "",
+      "pseudo_control_order": 2,
+      "physical_boundary_match": 0,
+      "diagnostic_records": 3,
+      "maximum_attitude_error_rad": 0.12360220462437672,
+      "maximum_omega_error": 0.08112521744193905
+    }
+  ],
+  "full_df": [
+    {
+      "case": "uni_bugtrap",
+      "success": 1,
+      "reason": "",
+      "pseudo_control_order": 2,
+      "physical_boundary_match": 1,
+      "diagnostic_records": 13,
+      "maximum_attitude_error_rad": 0.0,
+      "maximum_omega_error": 0.0
+    },
+    {
+      "case": "uni_wall",
+      "success": 1,
+      "reason": "",
+      "pseudo_control_order": 2,
+      "physical_boundary_match": 1,
+      "diagnostic_records": 4,
+      "maximum_attitude_error_rad": 0.0,
+      "maximum_omega_error": 0.0
+    },
+    {
+      "case": "quad2d_bugtrap",
+      "success": 0,
+      "reason": "timeout_no_goal",
+      "pseudo_control_order": 4,
+      "physical_boundary_match": 0,
+      "diagnostic_records": 0,
+      "maximum_attitude_error_rad": null,
+      "maximum_omega_error": null
+    },
+    {
+      "case": "quad2d_hole",
+      "success": 1,
+      "reason": "",
+      "pseudo_control_order": 4,
+      "physical_boundary_match": 1,
+      "diagnostic_records": 3,
+      "maximum_attitude_error_rad": 3.168832047297307e-16,
+      "maximum_omega_error": 2.26345150016919e-16
+    },
+    {
+      "case": "quad3d_block",
+      "success": 1,
+      "reason": "",
+      "pseudo_control_order": 4,
+      "physical_boundary_match": 1,
+      "diagnostic_records": 3,
+      "maximum_attitude_error_rad": 2.0486424050184667e-14,
+      "maximum_omega_error": 1.0140262551351382e-14
+    },
+    {
+      "case": "quad3d_window",
+      "success": 1,
+      "reason": "",
+      "pseudo_control_order": 4,
+      "physical_boundary_match": 1,
+      "diagnostic_records": 3,
+      "maximum_attitude_error_rad": 7.555020091506169e-14,
+      "maximum_omega_error": 4.525599168593871e-14
+    }
+  ]
+}

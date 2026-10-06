@@ -1,0 +1,11 @@
+COMMAND: ["D:\\codex_talk\\project_1\\tmp\\build_paper_simd\\benchmark.exe", "--config", "D:\\codex_talk\\project_1\\project_code\\RRTstarDFPFF_paper_simd_20260922\\validation_logs\\smoke_seed41\\quad3d_window.yaml"]
+Model directory: "D:\\codex_talk\\project_1\\project_code\\RRTstarDFPFF_paper_simd_20260922\\benchmark\\models\\paper"
+Actual model: mass=1 inertia_3d=0.1 0.1 0.2 inertia_2d=0 velocity_limit=4 omega_limit=8 motor_control=0
+control_lower=   0 -0.1 -0.1 -0.1
+control_upper=1.5 0.1 0.1 0.1
+Validation backend: simd_discrete_float8 / sphere union
+Environment: "D:\\codex_talk\\project_1\\project_code\\dynobench-main\\dynobench-main\\envs\\quadrotor_v0/window.yaml"
+Robot: quad3d_v0
+SIMD runtime: 1
+run=0 seed=41 planner_success=1 sampled_success=1 nodes=111 cost=138.595 planning_time=0.646803 validation=
+SIMD sampled success: 1/1

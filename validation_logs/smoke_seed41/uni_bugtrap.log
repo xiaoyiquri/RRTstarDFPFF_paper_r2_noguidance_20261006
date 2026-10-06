@@ -1,0 +1,11 @@
+COMMAND: ["D:\\codex_talk\\project_1\\tmp\\build_paper_simd\\benchmark.exe", "--config", "D:\\codex_talk\\project_1\\project_code\\RRTstarDFPFF_paper_simd_20260922\\validation_logs\\smoke_seed41\\uni_bugtrap.yaml"]
+Model directory: "D:\\codex_talk\\project_1\\project_code\\RRTstarDFPFF_paper_simd_20260922\\benchmark\\models\\paper"
+Actual model: mass=0 inertia_3d=0 0 0 inertia_2d=0 velocity_limit=1 omega_limit=1.5 motor_control=1
+control_lower=-0.5 -1.5
+control_upper=  1 1.5
+Validation backend: simd_discrete_float8 / sphere union
+Environment: "D:\\codex_talk\\project_1\\project_code\\dynobench-main\\dynobench-main\\envs\\unicycle1_v0/bugtrap_0.yaml"
+Robot: unicycle1_v0
+SIMD runtime: 1
+run=0 seed=41 planner_success=1 sampled_success=1 nodes=396 cost=26.4794 planning_time=1.41072 validation=
+SIMD sampled success: 1/1

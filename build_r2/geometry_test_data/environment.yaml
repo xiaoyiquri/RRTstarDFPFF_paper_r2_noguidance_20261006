@@ -1,0 +1,7 @@
+environment:
+  min: [-5, -5]
+  max: [5, 5]
+  obstacles:
+    - {type: box, center: [0, 0], size: [1, 1]}
+robots:
+  - {type: unicycle1_test, start: [-2, 0, 0], goal: [2, 0, 0]}

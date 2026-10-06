@@ -1,0 +1,7 @@
+environment,runs,sampled_successes,external_checks,return_code,validation_backend
+uni_bugtrap,1,1,0,0,simd_discrete_float8
+uni_wall,1,1,0,0,simd_discrete_float8
+quad2d_bugtrap,1,0,0,2,simd_discrete_float8
+quad2d_hole,1,1,0,0,simd_discrete_float8
+quad3d_block,1,1,0,0,simd_discrete_float8
+quad3d_window,1,1,0,0,simd_discrete_float8

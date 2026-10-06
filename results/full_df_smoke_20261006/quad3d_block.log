@@ -1,0 +1,11 @@
+COMMAND: ["D:\\codex_talk\\project_1\\project_code\\RRTstarDFPFF_paper_r2_noguidance_20261006\\build_r2\\benchmark.exe", "--config", "D:\\codex_talk\\project_1\\project_code\\RRTstarDFPFF_paper_r2_noguidance_20261006\\results\\full_df_smoke_20261006\\quad3d_block.yaml"]
+Model file: "D:\\codex_talk\\project_1\\project_code\\RRTstarDFPFF_paper_r2_noguidance_20261006\\benchmark\\models\\paper\\quad3d_v0.yaml"
+Actual model: mass=1 inertia_3d=0.1 0.1 0.2 inertia_2d=0 velocity_limit=4 omega_limit=8 motor_control=0
+control_lower=   0 -0.1 -0.1 -0.1
+control_upper=1.5 0.1 0.1 0.1
+Validation backend: simd_discrete_float8 / sphere union
+Environment: "D:\\codex_talk\\project_1\\project_code\\dynobench-main\\dynobench-main\\envs\\quadrotor_v0/quad_one_obs.yaml"
+Robot: quad3d_v0
+SIMD runtime: 1
+run=0 seed=41 planner_success=1 sampled_success=1 nodes=821 cost=44.4874 planning_time=3.00005 validation=
+SIMD sampled success: 1/1

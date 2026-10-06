@@ -1,0 +1,44 @@
+{
+  "quad2d_bugtrap": {
+    "states": 2436,
+    "actions": 2435,
+    "max_dt": 0.004998377150276845,
+    "finite": true,
+    "dimensions_consistent": true
+  },
+  "quad2d_hole": {
+    "states": 2832,
+    "actions": 2831,
+    "max_dt": 0.005000000000002558,
+    "finite": true,
+    "dimensions_consistent": true
+  },
+  "quad3d_block": {
+    "states": 1711,
+    "actions": 1710,
+    "max_dt": 0.005000000000002558,
+    "finite": true,
+    "dimensions_consistent": true
+  },
+  "quad3d_window": {
+    "states": 1535,
+    "actions": 1534,
+    "max_dt": 0.0049983421750674495,
+    "finite": true,
+    "dimensions_consistent": true
+  },
+  "uni_bugtrap": {
+    "states": 4528,
+    "actions": 4527,
+    "max_dt": 0.0050000000000003375,
+    "finite": true,
+    "dimensions_consistent": true
+  },
+  "uni_wall": {
+    "states": 1743,
+    "actions": 1742,
+    "max_dt": 0.004999309487640602,
+    "finite": true,
+    "dimensions_consistent": true
+  }
+}

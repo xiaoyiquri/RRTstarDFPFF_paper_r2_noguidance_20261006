@@ -1,0 +1,11 @@
+COMMAND: ["D:\\codex_talk\\project_1\\project_code\\RRTstarDFPFF_paper_r2_noguidance_20261006\\build_r2\\benchmark.exe", "--config", "D:\\codex_talk\\project_1\\project_code\\RRTstarDFPFF_paper_r2_noguidance_20261006\\results\\full_df_smoke_20261006\\uni_wall.yaml"]
+Model file: "D:\\codex_talk\\project_1\\project_code\\RRTstarDFPFF_paper_r2_noguidance_20261006\\benchmark\\models\\paper\\unicycle1_v2.yaml"
+Actual model: mass=0 inertia_3d=0 0 0 inertia_2d=0 velocity_limit=1 omega_limit=1.5 motor_control=1
+control_lower=0.25 -1.5
+control_upper=  1 1.5
+Validation backend: simd_discrete_float8 / sphere union
+Environment: "D:\\codex_talk\\project_1\\project_code\\dynobench-main\\dynobench-main\\envs\\unicycle1_v2/wall_0.yaml"
+Robot: unicycle1_v2
+SIMD runtime: 1
+run=0 seed=41 planner_success=1 sampled_success=1 nodes=3130 cost=8.35637 planning_time=3.00004 validation=
+SIMD sampled success: 1/1

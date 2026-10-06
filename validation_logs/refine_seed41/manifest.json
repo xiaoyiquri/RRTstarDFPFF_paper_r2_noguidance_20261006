@@ -1,0 +1,59 @@
+{
+  "validation_backend": "simd_discrete_float8",
+  "geometry": "sphere_union",
+  "external_checks": 0,
+  "dynobench_verified": false,
+  "continuous_collision_certified": false,
+  "runs": 1,
+  "timeout": 3.0,
+  "seed": 41,
+  "cases": [
+    "uni_bugtrap",
+    "uni_wall",
+    "quad2d_bugtrap",
+    "quad2d_hole",
+    "quad3d_block",
+    "quad3d_window"
+  ],
+  "first_solution": false,
+  "platform": "Windows-11-10.0.26100-SP0",
+  "binary_sha256": "c633851467ef66fe4d906a96ecb6b29620532ab69866afbf351de441ca8e0e26",
+  "inputs": {
+    "uni_bugtrap": {
+      "D:\\codex_talk\\project_1\\project_code\\RRTstarDFPFF_paper_simd_20260922\\benchmark\\config\\uni_bugtrap.yaml": "1489602c67f2bdec95dff2e48d96c3b991de9ad10a91df01d33e806a353a6ad4",
+      "D:\\codex_talk\\project_1\\project_code\\dynobench-main\\dynobench-main\\envs\\unicycle1_v0\\bugtrap_0.yaml": "d4fbebc3320ef91c60edabea30e419e10652e01820b7e576deb947337f5cfb50",
+      "D:\\codex_talk\\project_1\\project_code\\RRTstarDFPFF_paper_simd_20260922\\benchmark\\models\\paper\\unicycle1_v0.yaml": "a7a3e067abb46947ee355f5c79186e13e81b6c81815306123cd983f2d81493ed",
+      "D:\\codex_talk\\project_1\\project_code\\RRTstarDFPFF_paper_simd_20260922\\validation_logs\\refine_seed41\\uni_bugtrap.yaml": "2b27788cd3e20d5b379aa0ba7c3d488b5d6965540f8be0e11e81ddfabf5887c7"
+    },
+    "uni_wall": {
+      "D:\\codex_talk\\project_1\\project_code\\RRTstarDFPFF_paper_simd_20260922\\benchmark\\config\\uni_wall.yaml": "b6dbdcdf6f699b1a94d4640a9aba3d718deee8983e07201da26ac7826ddca105",
+      "D:\\codex_talk\\project_1\\project_code\\dynobench-main\\dynobench-main\\envs\\unicycle1_v2\\wall_0.yaml": "2a60709641697f85d2c852795c9bbfab926cbff355c4745ed59ec7cc92bc7b01",
+      "D:\\codex_talk\\project_1\\project_code\\RRTstarDFPFF_paper_simd_20260922\\benchmark\\models\\paper\\unicycle1_v2.yaml": "23c90ac4d5eb3782eaab315988140f4c3266695783e5c4000eba42b8a8737302",
+      "D:\\codex_talk\\project_1\\project_code\\RRTstarDFPFF_paper_simd_20260922\\validation_logs\\refine_seed41\\uni_wall.yaml": "9cb2bc039647b38a530ae0ae3eeb8934fd284d1e3b27bb2a64ffa7d33193c974"
+    },
+    "quad2d_bugtrap": {
+      "D:\\codex_talk\\project_1\\project_code\\RRTstarDFPFF_paper_simd_20260922\\benchmark\\config\\quad2d_bugtrap.yaml": "69e245c539b5eaaff9c5bdb482ff9b96922728472efdb58df862688e7ea98464",
+      "D:\\codex_talk\\project_1\\project_code\\dynobench-main\\dynobench-main\\envs\\quad2d_v0\\quad_bugtrap.yaml": "1499a95907170ee247b676041cc2987dae12608790837f1f22a7ab1093a670af",
+      "D:\\codex_talk\\project_1\\project_code\\RRTstarDFPFF_paper_simd_20260922\\benchmark\\models\\paper\\quad2d_v0.yaml": "7c1e32af37e8d7655437e0698ce68425ce7f365d7a42949812da24072bdb6b53",
+      "D:\\codex_talk\\project_1\\project_code\\RRTstarDFPFF_paper_simd_20260922\\validation_logs\\refine_seed41\\quad2d_bugtrap.yaml": "24579c8e3011174a8b679a200a7b386592d4f224b088cdfbdc5b69914101918c"
+    },
+    "quad2d_hole": {
+      "D:\\codex_talk\\project_1\\project_code\\RRTstarDFPFF_paper_simd_20260922\\benchmark\\config\\quad2d_hole.yaml": "6882005729cc4c47d9bd40ce6400ef2770c2b62422cbc964cddc32eee6c6ad49",
+      "D:\\codex_talk\\project_1\\project_code\\dynobench-main\\dynobench-main\\envs\\quad2d_v0\\fall_through.yaml": "997020824567e902fd65e73fece67d3161aee25b96c97d4d1b4ef3b61c6e1970",
+      "D:\\codex_talk\\project_1\\project_code\\RRTstarDFPFF_paper_simd_20260922\\benchmark\\models\\paper\\quad2d_v0.yaml": "7c1e32af37e8d7655437e0698ce68425ce7f365d7a42949812da24072bdb6b53",
+      "D:\\codex_talk\\project_1\\project_code\\RRTstarDFPFF_paper_simd_20260922\\validation_logs\\refine_seed41\\quad2d_hole.yaml": "5475ce318716ebbc76966a99361f47c4310d2d57b6fb54111caccdda047646af"
+    },
+    "quad3d_block": {
+      "D:\\codex_talk\\project_1\\project_code\\RRTstarDFPFF_paper_simd_20260922\\benchmark\\config\\quad3d_block.yaml": "3ff1fd290eb2665619971bcf3cd6416d9c9594f4334d5ba868f5fd394c54bbe2",
+      "D:\\codex_talk\\project_1\\project_code\\dynobench-main\\dynobench-main\\envs\\quadrotor_v0\\quad_one_obs.yaml": "9ee11b2922699c0cd2751f04966415ad32d4008e980db823987c56b52b590353",
+      "D:\\codex_talk\\project_1\\project_code\\RRTstarDFPFF_paper_simd_20260922\\benchmark\\models\\paper\\quad3d_v0.yaml": "9889824bdaac66fa97e2bd0491f4637ce76f9ef21aea56af3624e0105dd088a9",
+      "D:\\codex_talk\\project_1\\project_code\\RRTstarDFPFF_paper_simd_20260922\\validation_logs\\refine_seed41\\quad3d_block.yaml": "05f9d4fae56756c8c89cfac32d9d42d7c3ed58bf093020418c271ee56a4d7fdb"
+    },
+    "quad3d_window": {
+      "D:\\codex_talk\\project_1\\project_code\\RRTstarDFPFF_paper_simd_20260922\\benchmark\\config\\quad3d_window.yaml": "65a97962ab601328687bbda8ce51f971a43fda80e76e5f7cd1fd28ed9185c297",
+      "D:\\codex_talk\\project_1\\project_code\\dynobench-main\\dynobench-main\\envs\\quadrotor_v0\\window.yaml": "14803e6106dc3cbc4c601ec087931a50a35983d837c78e472498783ef71087c3",
+      "D:\\codex_talk\\project_1\\project_code\\RRTstarDFPFF_paper_simd_20260922\\benchmark\\models\\paper\\quad3d_v0.yaml": "9889824bdaac66fa97e2bd0491f4637ce76f9ef21aea56af3624e0105dd088a9",
+      "D:\\codex_talk\\project_1\\project_code\\RRTstarDFPFF_paper_simd_20260922\\validation_logs\\refine_seed41\\quad3d_window.yaml": "2eeaeb55d78982e54cc045d757ce99e713aeff5af57f2a3ff734ab6972a10422"
+    }
+  }
+}

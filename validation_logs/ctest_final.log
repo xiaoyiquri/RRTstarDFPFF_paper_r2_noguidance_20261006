@@ -1,0 +1,29 @@
+Test project D:/codex_talk/project_1/tmp/build_paper_simd
+      Start  1: pff
+ 1/12 Test  #1: pff ..............................   Passed    0.54 sec
+      Start  2: tree
+ 2/12 Test  #2: tree .............................   Passed    0.41 sec
+      Start  3: rewire_metadata
+ 3/12 Test  #3: rewire_metadata ..................   Passed    0.40 sec
+      Start  4: end_to_end
+ 4/12 Test  #4: end_to_end .......................   Passed    0.55 sec
+      Start  5: df
+ 5/12 Test  #5: df ...............................   Passed    0.39 sec
+      Start  6: dynobench
+ 6/12 Test  #6: dynobench ........................   Passed    0.36 sec
+      Start  7: simd
+ 7/12 Test  #7: simd .............................   Passed    0.43 sec
+      Start  8: search_improvements
+ 8/12 Test  #8: search_improvements ..............   Passed    0.42 sec
+      Start  9: paper_fast
+ 9/12 Test  #9: paper_fast .......................   Passed    0.80 sec
+      Start 10: physical_simd
+10/12 Test #10: physical_simd ....................   Passed    0.45 sec
+      Start 11: sphere_geometry
+11/12 Test #11: sphere_geometry ..................   Passed    0.47 sec
+      Start 12: paper_profile
+12/12 Test #12: paper_profile ....................   Passed    0.39 sec
+
+100% tests passed out of 12
+
+Total Test time (real) =   5.66 sec

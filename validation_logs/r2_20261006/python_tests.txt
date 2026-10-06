@@ -1,0 +1,8 @@
+test_default_profile_paths (tests.test_run_six.RunnerPaths.test_default_profile_paths) ... ok
+test_full_df_paths (tests.test_run_six.RunnerPaths.test_full_df_paths) ... ok
+test_independent_ab_switches (tests.test_run_six.RunnerPaths.test_independent_ab_switches) ... ok
+
+----------------------------------------------------------------------
+Ran 3 tests in 0.663s
+
+OK

@@ -1,0 +1,5 @@
+kind,edge_index,time,flat_position_error,flat_velocity_error,physical_position_error,physical_velocity_error,attitude_error_rad,omega_error,df_mode,boundary_contract
+start,0,0,0,0,0,0,0,0,paper_r2,reduced_flat_A_prime
+junction,1,1.6666666666666661,0,0,0,0,0,0,paper_r2,reduced_flat_A_prime
+junction,2,4.1974358974358967,0,0,0,0,0,0,paper_r2,reduced_flat_A_prime
+goal,2,7.9435897435897438,4.4408920985006262e-16,6.8872017572001583e-17,0,0,0,0,paper_r2,reduced_flat_A_prime

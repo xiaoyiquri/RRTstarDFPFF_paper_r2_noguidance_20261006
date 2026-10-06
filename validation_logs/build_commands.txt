@@ -1,0 +1,7 @@
+Host: Windows x86-64, existing Zig 0.13 / Clang 18, AVX2 available.
+No software downloaded or installed.
+cmake -S project_code/RRTstarDFPFF_paper_simd_20260922 -B tmp/build_paper_simd -G Ninja -DCMAKE_BUILD_TYPE=Release -DBUILD_TESTING=ON -DCMAKE_TOOLCHAIN_FILE=D:/codex_talk/project_1/tmp/zig-toolchain.cmake -DCMAKE_MAKE_PROGRAM=D:/codex_talk/project_1/tmp/simd-build-tools/bin/ninja.exe -DRRTPFF_EIGEN_SOURCE=D:/codex_talk/project_1/tmp/eigen-3.4.0 -DRRTPFF_YAML_SOURCE=D:/codex_talk/project_1/tmp/yaml-cpp-0.8.0 -DCMAKE_POLICY_VERSION_MINIMUM=3.5
+cmake --build tmp/build_paper_simd --parallel 2
+ctest --test-dir tmp/build_paper_simd --output-on-failure
+Result: build exit 0; 12/12 tests passed. See ctest_final.log.
+Six-case commands and exact generated YAML input hashes are recorded in final_seed41/ and refine_seed41/ manifests and per-case logs.

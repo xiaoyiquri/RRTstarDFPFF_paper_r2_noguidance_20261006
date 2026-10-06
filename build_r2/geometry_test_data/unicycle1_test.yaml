@@ -1,0 +1,6 @@
+dynamics: unicycle1
+max_vel: 1
+min_vel: -0.5
+max_angular_vel: 1.5
+min_angular_vel: -1.5
+dt: .1

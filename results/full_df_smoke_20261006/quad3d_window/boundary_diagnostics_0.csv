@@ -1,0 +1,4 @@
+kind,edge_index,time,flat_position_error,flat_velocity_error,physical_position_error,physical_velocity_error,attitude_error_rad,omega_error,df_mode,boundary_contract
+start,0,0,0,0,0,0,0,0,full_df,full_physical
+junction,1,2.9513893746165425,0,0,0,0,0,0,full_df,full_physical
+goal,1,7.1360047592319269,3.2313616645912651e-13,7.6832765751720958e-13,0,8.0152874010355491e-13,7.5550200915061692e-14,4.5255991685938712e-14,full_df,full_physical

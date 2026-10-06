@@ -1,0 +1,14 @@
+pff 2 0.020911
+tree 2 0.016995
+rewire_metadata 2 0.0160061
+end_to_end 2 0.0481369
+df 2 0.016638
+dynobench 2 0.0166722
+simd 2 0.0225009
+search_improvements 2 0.0169394
+paper_fast 2 0.158296
+physical_simd 2 0.0186612
+sphere_geometry 2 0.0227919
+paper_r2 1 0.350642
+paper_profile 2 0.0210239
+---
